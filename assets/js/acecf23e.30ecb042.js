@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklavender_docs=self.webpackChunklavender_docs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/lavender-docs-build/blog","blogTitle":"Blog","authorsListPath":"/lavender-docs-build/blog/authors"}')}}]);
