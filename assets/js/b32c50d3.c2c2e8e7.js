@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklavender_docs=self.webpackChunklavender_docs||[]).push([[947],{4990:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/lavender-docs-build/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

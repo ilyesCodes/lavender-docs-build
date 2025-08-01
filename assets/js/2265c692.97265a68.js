@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklavender_docs=self.webpackChunklavender_docs||[]).push([[1282],{9463:e=>{e.exports=JSON.parse('{"authors":[{"name":"Ilyes Chaabane","title":"Software Developer","url":"https://github.com/ilyes-CH","key":"ilyes chaabane","page":null,"count":2}]}')}}]);
